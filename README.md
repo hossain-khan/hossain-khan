@@ -1,5 +1,5 @@
 ### Hi there 👋
-It's Hossain. A 🍱 foodie, ⛰️ traveler, 📸 snapper, and 👨‍💻 developer by day.
+It's Hossain. A 🍱 foodie, dad 👶🏽, ⛰️ traveler, 📸 snapper, and 👨‍💻 developer by day.
 
 
 <!--
@@ -11,6 +11,6 @@ If you are interested to know more...
 - 🤔 I’m looking for help with any projects that I can spend my expertise.
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: twitter, or email
-- 😄 Pronouns: Fun
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Drove 1000km for food.
 -->
