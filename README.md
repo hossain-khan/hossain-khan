@@ -1,5 +1,5 @@
 ### Hi there 👋
-It's Hossain. A 🍱 foodie, dad 👶🏽, ⛰️ traveler, 📸 snapper, and 👨‍💻 developer by day.
+It's Hossain. A 🍱 foodie, dad 👶🏽, ⛰️ traveler, 📸 snapper, and 👨‍💻 software engineer by day.
 
 
 <!--
